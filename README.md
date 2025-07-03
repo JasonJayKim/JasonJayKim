@@ -17,6 +17,6 @@
 
 ```txt
 🖥 Frontend: Next 15, React 19, TypeScript, Tailwind, Zustand, SWR, React Query  
-🛠 Backend: Java, Kotlin, Phthon, Spring Boot, JPA, Redis, MySQL  
+🛠 Backend: Java, Kotlin, Python, Spring Boot, JPA, Redis, MySQL  
 🚀 DevOps: Docker, Jenkins, Nginx, GitHub Actions  
 🧪 Test: JUnit, MockK, K6  
